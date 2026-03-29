@@ -1,7 +1,7 @@
 # Hi 👋 I'm Vara Prasad
 
 🎓 Final Year B.Tech Student in Artificial Intelligence  
-📊 Aspiring Data Analyst | ML Enthusiast  
+📊 Aspiring Data Analyst | Machine Learning Enthusiast  
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 📊 Featured Projects
+## 📊 Projects
 🔹 Employee Salary Prediction System  
 🔹 Movie Recommendation System  
 🔹 MindMate AI – NLP Project  
@@ -20,13 +20,13 @@
 
 ---
 
-## 🛠️ Tools & Tech
+## 🛠️ Tools & Technologies
 Python | Pandas | NumPy | Scikit-learn  
 Power BI | Excel | Git | Streamlit  
 
 ---
 
-## 📫 Connect with Me
+## 📫 Contact Me
 📧 Email: varaprasadsunkeswarapu16@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/vara-prasad-vara-prasad-7383a9342  
 
