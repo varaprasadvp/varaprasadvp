@@ -1,44 +1,40 @@
 # Hi 👋 I'm Vara Prasad
 
 🎓 Final Year B.Tech Student in Artificial Intelligence  
-💡 Passionate about Data Analytics, Machine Learning & Backend Development  
+📊 Aspiring Data Analyst | ML Enthusiast  
 
 ---
 
 ## 🚀 Skills
-- Python
-- SQL (MySQL)
-- Machine Learning
-- Data Analysis & Visualization (Power BI, Excel)
-- REST APIs & Backend Development
+- Python | SQL | Machine Learning  
+- Data Analysis & Visualization (Power BI, Excel)  
+- Backend Development | REST APIs  
 
 ---
 
-## 📊 Projects
+## 📊 Featured Projects
 🔹 Employee Salary Prediction System  
 🔹 Movie Recommendation System  
-🔹 MindMate AI – Mental Wellness Assistant  
+🔹 MindMate AI – NLP Project  
 🔹 IoT Pet Health Monitoring System  
 
 ---
 
-## 🛠️ Tools & Technologies
-- Python, Pandas, NumPy, Scikit-learn  
-- Power BI, Excel  
-- Git, GitHub, Streamlit  
+## 🛠️ Tools & Tech
+Python | Pandas | NumPy | Scikit-learn  
+Power BI | Excel | Git | Streamlit  
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect with Me
 📧 Email: varaprasadsunkeswarapu16@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/vara-prasad-vara-prasad-7383a9342  
 
 ---
 
 ## 🌱 Currently Learning
-- Full Stack Development (Python)
-- Advanced Machine Learning
+Python Full Stack Development  
 
 ---
 
-⭐ Always open to Internship & Fresher Opportunities in Data Analytics / AI / ML
+⭐ Open to Internships & Fresher Roles (Data Analyst / ML / Python Developer)
